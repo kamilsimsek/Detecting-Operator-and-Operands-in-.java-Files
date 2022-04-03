@@ -1,9 +1,9 @@
 /**
 *
-* @author Kamil ŞİMŞEK - kamil.simsek@ogr.sakarya.edu.tr
+* @author Kamil ÅÄ°MÅEK - kamil.simsek@ogr.sakarya.edu.tr
 * @since 28.03.2022
 * <p>
-* Operatör-operand bilgilerinin tutulduğu sınıf
+* OperatÃ¶r-operand bilgilerinin tutulduÃ°u sÄ±nÄ±f
 * </p>
 */
 
@@ -42,7 +42,7 @@ public class Lexical {
 	public int TekliGetir() {
 		return teklioperator;
 	}
-	public void IlıskiselArttir(){	
+	public void IlÃ½skiselArttir(){	
 		iliskiseloperator++;
 	}
 	public int IliskiselGetir() {
